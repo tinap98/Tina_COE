@@ -1,3 +1,4 @@
+#not working widout showing errors..sry bout that!
 import streamlit as st
 
 class Bank:
